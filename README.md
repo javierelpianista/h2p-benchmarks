@@ -1,6 +1,6 @@
 # Contents 
 
-For the quantum numbers that label each state, we follow all the definitions of http://dx.doi.org/10.1016/s0065-2199(08)60183-9.
+For the quantum numbers that label each state, we follow all the definitions of https://dx.doi.org/10.1016/s0065-2199(08)60183-9.
 Briefly, the quantum numbers used here are:
 
 * `l`: (quantum) number for the angular momentum in the united-atom limit
