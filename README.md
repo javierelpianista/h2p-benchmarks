@@ -1,4 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5044229.svg)](https://doi.org/10.5281/zenodo.5044229)
+
 # Contents 
+
+This repository contains benchmark electronic energy `E`, separation constant `A` and internuclear separation `R` values of the hydrogen molecule cation computing using the Riccati-Padé method (RPM).
 
 For the quantum numbers that label each state, we follow all the definitions of https://dx.doi.org/10.1016/s0065-2199(08)60183-9.
 Briefly, the quantum numbers used here are:
