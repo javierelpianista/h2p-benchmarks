@@ -28,7 +28,7 @@ The values of `E` and `A` are reported with the correct number of significant di
 ## Electronic + nuclear repulsion energy derivatives
 
 The dissociation curves `U` and its derivative with respect to `R` are provided in the folder `discurves_with_derivative/`.
-Each state is named in the same way as in the previous section.
+Each state is named in the same way as in the previous section, and each line contains `R`, `U`, `dU/dR`, and `A`.
 
 ## Accurate benchmark values for selected cases
 
